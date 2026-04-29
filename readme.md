@@ -1,4 +1,4 @@
-#  neurons-in-the-rain
+#  Engineering a Sentiment Analysis System from First Principles using RNN and LSTM Architectures
 
 > **Building RNNs and LSTMs from the ground up** — then going head-to-head against Keras on the IMDB sentiment dataset.
 
