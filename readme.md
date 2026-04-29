@@ -28,14 +28,13 @@ The goal: prove that understanding the math behind a model is worth more than ju
 ```
 neurons-in-the-rain/
 │
-├── rnn/
-│   └── rnn_comparison.ipynb      # Cell 1: RNN from scratch  |  Cell 2: Keras SimpleRNN
+├── RNN/
+│   └── RNN.ipynb      # Cell 1: RNN from scratch  |  Cell 2: Keras SimpleRNN
 │
-├── lstm/
-│   └── lstm_comparison.ipynb     # Cell 1: LSTM from scratch  |  Cell 2: Keras LSTM
+├── LSTM/
+│   └── LSTM.ipynb     # Cell 1: LSTM from scratch  |  Cell 2: Keras LSTM
 │
 ├── README.md
-└── requirements.txt
 ```
 
 Each notebook is self-contained: load data → train → evaluate → interactive inference.  
