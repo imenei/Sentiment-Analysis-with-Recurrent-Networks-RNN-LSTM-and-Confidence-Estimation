@@ -26,7 +26,7 @@ The goal: prove that understanding the math behind a model is worth more than ju
 ## 🏗 Project Structure
 
 ```
-neurons-in-the-rain/
+Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation/
 │
 ├── RNN/
 │   └── RNN.ipynb      # Cell 1: RNN from scratch  |  Cell 2: Keras SimpleRNN
