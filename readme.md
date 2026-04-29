@@ -3,7 +3,7 @@
 > **Building RNNs and LSTMs from the ground up** — then going head-to-head against Keras on the IMDB sentiment dataset.
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/imenei/neurons-in-the-rain?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/imenei/Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-From%20Scratch-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-Keras%20Baseline-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
