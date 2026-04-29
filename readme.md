@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Most deep learning courses hand you `model.fit()` and move on.
 
@@ -21,6 +21,9 @@ This project does the opposite: **every gate, every gradient, every weight updat
 Two architectures. Two implementations each. One shared dataset.  
 The goal: prove that understanding the math behind a model is worth more than just knowing the API.
 
+##  Confidence Estimation
+
+The model outputs probabilistic predictions, allowing interpretation of prediction confidence and uncertainty. This provides deeper insight into model behavior beyond binary classification.
 ---
 
 ## 🏗 Project Structure
@@ -130,22 +133,17 @@ It's about **knowing what you're building** before you let a library build it fo
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/neurons-in-the-rain
-cd neurons-in-the-rain
+git clone https://github.com/imenei/Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation
+cd Sentiment-Analysis-with-Recurrent-Networks-RNN-LSTM-and-Confidence-Estimation
 ```
 
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run a notebook
+### 2. Run a notebook
 ```bash
 # RNN experiments
-jupyter notebook rnn/rnn_comparison.ipynb
+jupyter notebook RNN/RNN.ipynb
 
 # LSTM experiments
-jupyter notebook lstm/lstm_comparison.ipynb
+jupyter notebook LSTM/LSTM.ipynb
 ```
 
 Each notebook includes an **interactive inference loop** at the end — type any movie review and get a live prediction with confidence score:
